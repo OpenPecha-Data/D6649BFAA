@@ -911,25 +911,25 @@ annotations:
     reference: ''
     span:
       start: 183637
-      end: 185736
+      end: 185761
   5a4ba4520a8243c2ae9c6bae0cc6a184:
     imgnum: 553
     reference: ''
     span:
-      start: 185738
-      end: 187902
+      start: 185763
+      end: 187927
   ec31f60763a6450d866764785fc7cd1a:
     imgnum: 554
     reference: ''
     span:
-      start: 187904
-      end: 190114
+      start: 187929
+      end: 190139
   a528c96bb8e74436a927835a4fdbe696:
     imgnum: 555
     reference: ''
     span:
-      start: 190116
-      end: 190683
+      start: 190141
+      end: 190708
 local_ids:
   fbbc2f34eefd4c49a89b48165dd63ab1: 200000
   bf09fa69aa35443090e810ea1770b7aa: 200001
